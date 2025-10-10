@@ -79,7 +79,7 @@ This project builds an SQLite database (clinic_simple.db) from a SQL schema and 
 - <img width="1113" height="869" alt="SQLHW2QUERYB" src="https://github.com/user-attachments/assets/4089add7-951b-4b5a-8aff-0f58e6d86a74" />
 
 
-### C) Office-visit CPTs since Jan 1, 2025 (CPT codes starting with 992))
+### C) Office-visit CPTs since Jan 1, 2025 (CPT codes starting with 992)
 - **Description:**
   - Filters to encounters with last_cpt and last_visit_dt, ordered by the most recent visit date.
 - **Explanation:**
@@ -101,4 +101,5 @@ This project builds an SQLite database (clinic_simple.db) from a SQL schema and 
 - **Explanation:**
   - 0 rows returned, no blank ICD-10 or CPT codes detected, indicating these required fields are complete.
 - <img width="486" height="884" alt="SQLHW2QUERYE" src="https://github.com/user-attachments/assets/e4d68633-feed-400c-84e2-ad4ef32dfdc2" />
+
 
