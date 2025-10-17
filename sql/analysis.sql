@@ -1,4 +1,3 @@
--- testing this out
 -- A) Row count
 SELECT COUNT(*) AS n_patients FROM patients;
 
